@@ -1,2 +1,2 @@
-# voting
+# /voting
 cat and dog
